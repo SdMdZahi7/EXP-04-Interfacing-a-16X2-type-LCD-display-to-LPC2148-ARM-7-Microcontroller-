@@ -198,7 +198,7 @@ int main(void)
 
 ## Proteus simulation 
 ## DISPLAY OFF:
-![GitHub Logo](PM O-3.png)
+![GitHub Logo](PM 0-3.png)
 
 
 ##  layout Diagram 
