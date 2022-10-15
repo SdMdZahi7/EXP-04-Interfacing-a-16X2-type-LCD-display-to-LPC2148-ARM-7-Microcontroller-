@@ -198,10 +198,11 @@ int main(void)
 
 ## Proteus simulation 
 ## DISPLAY OFF:
-![GitHub Logo](PM 0-3.png)
-
-
+![image](https://user-images.githubusercontent.com/94187572/195983123-069a9898-aecd-458c-bdc3-26cf0848b9bc.png)
+## DISPLAY ON:
+![pm o-3](https://user-images.githubusercontent.com/94187572/195983156-4a05a426-a835-45b8-8adf-49fbdd527cbf.png)
 ##  layout Diagram 
+![pm o-3(2)](https://user-images.githubusercontent.com/94187572/195983189-e69f4c12-738d-44b9-8b5e-8a859d13b83e.png)
 
 
 
